@@ -1,0 +1,80 @@
+ body{
+ background-color: rgb(213, 222, 252);
+        }
+
+.tituloprincipal{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
+
+button {
+      margin-top: 10px;
+      padding: 15px 650px;
+      font-size: 14px;
+      background-color: #d33535;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor:pointer;
+}
+
+p{
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+.img1 {
+    height: 250px;
+    width: 500px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.lista li{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.border {
+  width: 80%;
+  margin: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.border td {
+  border: 5px solid #b61d1d;
+  padding: 10px;
+  text-align: center;
+}
+
+.border th {
+  border: 5px solid #b61d1d;
+  padding: 10px;
+  text-align: center;
+}
+
+.border img {
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+
+    a{
+    font-size: 25px;
+      text-decoration: none;
+      color: white;
+      background-color: #ff7b00;
+      padding: 10px 15px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    a:hover{
+      background-color: #0056b3; /* Cor quando o mouse passa por cima */
+    }
